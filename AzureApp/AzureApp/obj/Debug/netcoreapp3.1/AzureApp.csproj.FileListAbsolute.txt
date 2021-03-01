@@ -457,3 +457,4 @@ C:\Users\Alex\Documents\GitHub\ChallengeProject\AzureApp\AzureApp\bin\Debug\netc
 C:\Users\Alex\Documents\GitHub\ChallengeProject\AzureApp\AzureApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
 C:\Users\Alex\Documents\GitHub\ChallengeProject\AzureApp\AzureApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
 C:\Users\Alex\Documents\GitHub\ChallengeProject\AzureApp\AzureApp\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\Alex\Documents\GitHub\ChallengeProject\AzureApp\AzureApp\bin\Debug\netcoreapp3.1\AzureApp.StaticWebAssets.xml

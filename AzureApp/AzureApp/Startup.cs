@@ -35,10 +35,7 @@ namespace AzureApp
             services.AddDbContext<ChallengeDatabaseContext>(options =>
                     options.UseSqlServer(Configuration.GetConnectionString("ChallengeDatabaseContext")));
 
-            _ = services.AddIdentity<IdentityUser, IdentityRole>()
-                .AddDefaultUI()
-                .AddEntityFrameworkStores<ChallengeDatabaseContext>()
-                .AddDefaultTokenProviders();
+            services.AddIdentity<IdentityUser, IdentityRole>().AddEntityFrameworkStores<ChallengeDatabaseContext>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

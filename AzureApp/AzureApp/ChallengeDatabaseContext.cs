@@ -1,4 +1,5 @@
 ﻿using System;
+using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Metadata;
 
@@ -6,7 +7,7 @@ using Microsoft.EntityFrameworkCore.Metadata;
 
 namespace AzureApp
 {
-    public partial class ChallengeDatabaseContext : DbContext
+    public partial class ChallengeDatabaseContext : IdentityDbContext
     {
         public ChallengeDatabaseContext()
         {
