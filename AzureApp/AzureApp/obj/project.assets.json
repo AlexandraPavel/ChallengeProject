@@ -9140,25 +9140,20 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Alex\\.nuget\\packages\\": {},
-    "C:\\Microsoft\\Xamarin\\NuGet\\": {}
+    "C:\\Users\\maria_diana.dutica\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Alex\\source\\repos\\AzureApp\\AzureApp\\AzureApp.csproj",
+      "projectUniqueName": "C:\\Users\\maria_diana.dutica\\Desktop\\MLSA\\ChallengeProject\\AzureApp\\AzureApp\\AzureApp.csproj",
       "projectName": "AzureApp",
-      "projectPath": "C:\\Users\\Alex\\source\\repos\\AzureApp\\AzureApp\\AzureApp.csproj",
-      "packagesPath": "C:\\Users\\Alex\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Alex\\source\\repos\\AzureApp\\AzureApp\\obj\\",
+      "projectPath": "C:\\Users\\maria_diana.dutica\\Desktop\\MLSA\\ChallengeProject\\AzureApp\\AzureApp\\AzureApp.csproj",
+      "packagesPath": "C:\\Users\\maria_diana.dutica\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\maria_diana.dutica\\Desktop\\MLSA\\ChallengeProject\\AzureApp\\AzureApp\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Microsoft\\Xamarin\\NuGet\\"
-      ],
       "configFilePaths": [
-        "C:\\Users\\Alex\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        "C:\\Users\\maria_diana.dutica\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
@@ -9224,7 +9219,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
       }
     }
   }
