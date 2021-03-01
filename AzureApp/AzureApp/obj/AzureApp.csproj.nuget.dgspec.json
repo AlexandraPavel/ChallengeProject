@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Alex\\source\\repos\\AzureApp\\AzureApp\\AzureApp.csproj": {}
+    "C:\\Users\\Alex\\Documents\\GitHub\\ChallengeProject\\AzureApp\\AzureApp\\AzureApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Alex\\source\\repos\\AzureApp\\AzureApp\\AzureApp.csproj": {
+    "C:\\Users\\Alex\\Documents\\GitHub\\ChallengeProject\\AzureApp\\AzureApp\\AzureApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Alex\\source\\repos\\AzureApp\\AzureApp\\AzureApp.csproj",
+        "projectUniqueName": "C:\\Users\\Alex\\Documents\\GitHub\\ChallengeProject\\AzureApp\\AzureApp\\AzureApp.csproj",
         "projectName": "AzureApp",
-        "projectPath": "C:\\Users\\Alex\\source\\repos\\AzureApp\\AzureApp\\AzureApp.csproj",
+        "projectPath": "C:\\Users\\Alex\\Documents\\GitHub\\ChallengeProject\\AzureApp\\AzureApp\\AzureApp.csproj",
         "packagesPath": "C:\\Users\\Alex\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Alex\\source\\repos\\AzureApp\\AzureApp\\obj\\",
+        "outputPath": "C:\\Users\\Alex\\Documents\\GitHub\\ChallengeProject\\AzureApp\\AzureApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -44,23 +44,35 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "dependencies": {
+            "Microsoft.AspNetCore.Authentication.Cookies": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.3, )"
+            },
+            "Microsoft.AspNetCore.Identity.UI": {
+              "target": "Package",
+              "version": "[5.0.3, )"
+            },
             "Microsoft.CognitiveServices.Speech": {
               "target": "Package",
               "version": "[1.15.0, )"
             },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
-              "version": "[3.1.11, )"
+              "version": "[5.0.3, )"
             },
             "Microsoft.EntityFrameworkCore.Sqlite": {
               "target": "Package",
-              "version": "[3.1.11, )"
+              "version": "[5.0.3, )"
             },
             "Microsoft.EntityFrameworkCore.Tools": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[3.1.11, )"
+              "version": "[5.0.3, )"
             },
             "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
               "target": "Package",
