@@ -9146,11 +9146,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Alex\\source\\repos\\AzureApp\\AzureApp\\AzureApp.csproj",
+      "projectUniqueName": "E:\\AzureTeam\\Frontend\\ChallengeProject\\AzureApp\\AzureApp\\AzureApp.csproj",
       "projectName": "AzureApp",
-      "projectPath": "C:\\Users\\Alex\\source\\repos\\AzureApp\\AzureApp\\AzureApp.csproj",
+      "projectPath": "E:\\AzureTeam\\Frontend\\ChallengeProject\\AzureApp\\AzureApp\\AzureApp.csproj",
       "packagesPath": "C:\\Users\\Alex\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Alex\\source\\repos\\AzureApp\\AzureApp\\obj\\",
+      "outputPath": "E:\\AzureTeam\\Frontend\\ChallengeProject\\AzureApp\\AzureApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"

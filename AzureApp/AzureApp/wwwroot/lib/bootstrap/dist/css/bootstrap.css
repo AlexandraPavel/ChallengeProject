@@ -10035,4 +10035,105 @@ a.text-dark:hover, a.text-dark:focus {
     border-color: #dee2e6;
   }
 }
+
+/* Orange */
+.btn-orange {
+    background-color: #fd7e14;
+    color: #fff;
+}
+
+    .btn-orange:hover, .btn-orange:focus {
+        background-color: #fd9a47;
+        color: #fff;
+    }
+
+/* Indigo */
+.btn-indigo {
+    background-color: #6610f2;
+    color: #fff;
+}
+
+    .btn-indigo:hover, .btn-indigo:focus {
+        background-color: #8540f5;
+        color: #fff;
+    }
+
+/* Pink */
+.btn-pink {
+    background-color: #e83e8c;
+    color: #fff;
+}
+
+    .btn-pink:hover, .btn-pink:focus {
+        background-color: #ed6ca7;
+        color: #fff;
+    }
+
+/* Purple */
+.btn-purple {
+    background-color: #6f42c1;
+    color: #fff;
+}
+
+    .btn-purple:hover, .btn-purple:focus {
+        background-color: #8c68ce;
+        color: #fff;
+    }
+
+/* Blue */
+.btn-blue {
+    background-color: #007bff;
+    color: #fff;
+}
+
+    .btn-blue:hover, .btn-blue:focus {
+        background-color: #3395ff;
+        color: #fff;
+    }
+
+/* Brown */
+.btn-brown {
+    background-color: #a0855b;
+    color: #fff;
+}
+
+    .btn-brown:hover, .btn-brown:focus {
+        background-color: #b49d7a;
+        color: #fff;
+    }
+
+/* Blue gray */
+.btn-blue-gray {
+    background-color: #3f4d71;
+    color: #fff;
+}
+
+    .btn-blue-gray:hover, .btn-blue-gray:focus {
+        background-color: #516392;
+        color: #fff;
+    }
+
+/* Deep orange */
+.btn-deep-orange {
+    background-color: #ffac8e;
+    color: #fff;
+}
+
+    .btn-deep-orange:hover, .btn-deep-orange:focus {
+        background-color: #ffd1c1;
+        color: #fff;
+    }
+
+/* Aqua */
+.btn-aqua {
+    background-color: #3fc5f0;
+    color: #fff;
+}
+
+    .btn-aqua:hover, .btn-aqua:focus {
+        background-color: #6ed3f4;
+        color: #fff;
+    }
 /*# sourceMappingURL=bootstrap.css.map */
+
+

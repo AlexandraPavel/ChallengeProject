@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Z17+VGvCiazTkV+78VdFlKMMg1p5m9sMGg5KGUyRh0xJevWBxlC1lfYMhQTxJA1dLW4jaHAA8SJh38oAPBivHw==",
+  "dgSpecHash": "9pY9yEexfEoLiXZWva/477xyevvCNVSNrNL5nB7ZuI5BhVkBdjabgIcjbGw/WuBOFk9NcQRytLSKOqN+l79HJA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Alex\\source\\repos\\AzureApp\\AzureApp\\AzureApp.csproj",
+  "projectFilePath": "E:\\AzureTeam\\Frontend\\ChallengeProject\\AzureApp\\AzureApp\\AzureApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Alex\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\Alex\\.nuget\\packages\\microsoft.aspnetcore.razor\\2.2.0\\microsoft.aspnetcore.razor.2.2.0.nupkg.sha512",
